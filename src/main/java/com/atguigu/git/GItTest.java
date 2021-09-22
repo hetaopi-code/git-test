@@ -14,7 +14,8 @@ public class GItTest {
         System.out.println("push test");
         //zhushi
         //zhushi pull
-        //disanciff
+        //disancikk
+        //hahahah
 System.out.println("pull test");
         
     }
