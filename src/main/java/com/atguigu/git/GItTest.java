@@ -18,6 +18,7 @@ public class GItTest {
         //disancikkp
         //hahahah
         //pushssss
+        ///dfgdsfgfdg
 System.out.println("pull test");
         
     }
