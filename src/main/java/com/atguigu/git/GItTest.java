@@ -17,6 +17,7 @@ public class GItTest {
         //disancikk
         //disancikkp
         //hahahah
+        //pushssss
 System.out.println("pull test");
         
     }
