@@ -13,6 +13,7 @@ public class GItTest {
         System.out.println("hot-fix test");
         System.out.println("push test");
         //zhushi
+        //zhushi pull
 System.out.println("pull test");
         
     }
