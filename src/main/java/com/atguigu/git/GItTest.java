@@ -21,6 +21,7 @@ public class GItTest {
         //pushssss
         ///dfgdsfgfdg6
         //kkk
+        //gitee test2
 System.out.println("pull test");
         
     }
